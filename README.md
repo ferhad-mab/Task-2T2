@@ -1,4 +1,4 @@
-# Week 4: Introduction to Navigation
+# Task 2: Introduction to Navigation
 
 ## Table of Contents
 
